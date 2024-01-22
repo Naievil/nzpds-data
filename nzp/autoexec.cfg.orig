@@ -1,0 +1,28 @@
+bind	DSSELECT			"+use"
+bind	DSSTART				"togglemenu"
+binddt "DSUP" "+forward %i; impulse 23"
+binddt "DSDOWN" "+back %i; impulse 30;"
+bind "DSUP" "+forward"
+bind "DSDOWN" "+back"
+bind "DSLEFT" "+left"
+bind "DSRIGHT" "+right"
+bind "DSB" "+grenade"
+bind "DSA" "+knife"
+bind "DSL" "+aim"
+bind "DSR" "+attack"
+bind "DSY" "+reload"
+bind "DSX" "+switch"
+<<<<<<< HEAD
+map default
+//map ndu
+=======
+//timedemo demo1
+//map start
+//map default
+map ndu
+>>>>>>> main
+//map boxxer
+//map corner
+//map lexi_temple
+//map fegefeuer
+//menu_main
